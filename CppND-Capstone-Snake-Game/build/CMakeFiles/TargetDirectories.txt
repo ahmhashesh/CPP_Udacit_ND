@@ -1,0 +1,3 @@
+/media/ahmed/My Passport/Udacity/CppND-Capstone-Snake-Game/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed/My Passport/Udacity/CppND-Capstone-Snake-Game/build/CMakeFiles/SnakeGame.dir
+/media/ahmed/My Passport/Udacity/CppND-Capstone-Snake-Game/build/CMakeFiles/edit_cache.dir
